@@ -37,7 +37,7 @@ export PATH="$HOME/arc_gnu_2020.09_prebuilt_elf32_le_linux_install/bin:$PATH"
 
 ```sh
 git clone https://github.com/HimaxSmartSensing/WE_I_Plus_User_Examples
-cd HIMAX_Yolo_Fastest_Person_Detection_Example_For_Grove_AI
+cd WE_I_Plus_User_Examples/HIMAX_Yolo_Fastest_Person_Detection_Example_For_Grove_AI
 ```
 
 - **Step 6:** Download related third party, tflite model and library data (only need to download once)
