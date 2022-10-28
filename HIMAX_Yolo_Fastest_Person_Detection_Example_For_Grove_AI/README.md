@@ -14,7 +14,7 @@ sudo apt install make
 sudo apt install python3-numpy
 ```
 
-- **Step 2:** Download GNU toolchain for ARC64 processors
+- **Step 2:** Download GNU Development Toolkit
 
 ```sh
 cd ~
